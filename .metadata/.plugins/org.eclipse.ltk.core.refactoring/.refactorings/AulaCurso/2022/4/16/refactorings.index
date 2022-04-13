@@ -1,0 +1,8 @@
+1649729533819	Rename type 'FilesManagerJavaNio2'
+1649803119825	Rename local variable 'fligthsWithDurationPath'
+1649803309482	Rename method 'writeFligthsWhithDuration'
+1649803481901	Rename field 'duration'
+1649803509860	Rename method 'getDuration'
+1649803545040	Rename method 'setDuration'
+1649803558036	Rename local variable 'duration'
+1649803793208	Delete element

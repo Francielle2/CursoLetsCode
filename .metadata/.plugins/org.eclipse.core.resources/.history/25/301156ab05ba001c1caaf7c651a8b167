@@ -1,0 +1,5 @@
+package ProjetoFlightsInformation;
+
+public interface IFilesManager {
+
+}
